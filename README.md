@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chenna-nagesh&show_icons=true&locale=en" alt="chenna-nagesh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenna-nagesh&" alt="chenna-nagesh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chenna-nagesh&" alt="chenna-nagesh&" /></p>
